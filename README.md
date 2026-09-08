@@ -4,7 +4,7 @@
 
 **Software Developer | Web Designer | Project Administrator**
 
-Разрабатываю функционал для веб-интерфейсов, пишу плагины для игровых серверов и автоматизирую рутину с помощью ботов. 
+Делаю сайтики, пишу плагины для игровых серверов и ботов для телеграма и дискорда. 
 
 ---
 
@@ -45,8 +45,8 @@
 
 ### 📬 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-86efac?style=for-the-badge&logo=telegram&logoColor=0d1117)](https://t.me/ТВОЙ_РЕАЛЬНЫЙ_ЮЗЕРНЕЙМ)
-[![Discord](https://img.shields.io/badge/Discord-86efac?style=for-the-badge&logo=discord&logoColor=0d1117)](https://discord.gg/ССЫЛКА_НА_СЕРВЕР)
-[![Website](https://img.shields.io/badge/Project_Website-86efac?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://site.apiarysmp.ru/)
+[![Telegram](https://img.shields.io/badge/Telegram-86efac?style=for-the-badge&logo=telegram&logoColor=0d1117)](https://t.me/@meemASSss)
+[![Discord](https://img.shields.io/badge/Discord-86efac?style=for-the-badge&logo=discord&logoColor=0d1117)](https://discord.gg/pq6xEuAbbP)
+[![Website](https://img.shields.io/badge/Project_Website-86efac?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://apiarysmp.online/)
 
 </div>
