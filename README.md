@@ -21,7 +21,6 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=memassssssss&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=memassssssss&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 </div>
