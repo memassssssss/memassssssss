@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm memassssssss
+# Hi there 👋, I'm MemASS
 
 *Frontend / Web Developer & Project Admin*
 
