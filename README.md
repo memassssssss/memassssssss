@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm MemASS
 
-*Frontend / Web Developer & Project Admin*
+**Frontend / Web Developer & Project Admin**
 
 ---
 
@@ -15,11 +15,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-86efac?style=for-the-badge&logo=css3&logoColor=0d1117)
 ![C#](https://img.shields.io/badge/C%23-86efac?style=for-the-badge&logo=c-sharp&logoColor=0d1117)
 
+</div>
+
 ---
 
 ### 🌿 About Me
 
-javascript
+```javascript
 const developer = {
   code: ["JS", "CSS/HTML", "Java", "Python", "C#"],
   focus: ["Frontend Web Apps", "Minecraft Infrastructure & Plugins"],
