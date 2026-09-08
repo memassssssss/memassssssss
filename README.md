@@ -17,10 +17,11 @@
 
 ---
 
-### 📊 Activity Graph
+### 📊 GitHub Stats
 
-<a href="https://github.com/memassssssss">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=memassssssss&bg_color=0d1117&color=86efac&line=86efac&point=ffffff&area=true&hide_border=true" width="100%" />
-</a>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memassssssss&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=memassssssss&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 </div>
