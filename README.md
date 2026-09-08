@@ -19,15 +19,6 @@
 
 ---
 
-### 🌿 About Me
-
-javascript
-const developer = {
-  code: ["JS", "CSS/HTML", "Java", "Python", "C#"],
-  focus: ["Frontend Web Apps", "Minecraft Infrastructure & Plugins"],
-  tools: ["VS Code", "Krita", "Photoshop", "Premiere Pro"]
-};
-
 ### 📊 GitHub Stats
 
 <p align="center">
