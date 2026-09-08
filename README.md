@@ -21,7 +21,7 @@
 
 ### 🌿 About Me
 
-```javascript
+javascript
 const developer = {
   code: ["JS", "CSS/HTML", "Java", "Python", "C#"],
   focus: ["Frontend Web Apps", "Minecraft Infrastructure & Plugins"],
